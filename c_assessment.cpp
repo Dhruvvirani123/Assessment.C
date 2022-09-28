@@ -101,4 +101,23 @@ main()
 //		}
 //		printf("\n");
 //	}
+
+
+//													//Division
+//	for(i=0;i<2;i++)
+//	{
+//		for(j=0;j<2;j++)
+//		{
+//			d[i][j] = a[i][j] / b[i][j];
+//		}
+//	}												
+//	printf("\n---------------Result : Subtracation Matrix---------------\n");
+//	for(i=0;i<2;i++)									
+//	{
+//		for(j=0;j<2;j++)
+//		{
+//			printf(" %d ",d[i][j]);
+//		}
+//		printf("\n");
+//	}
 }
